@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @vstoqnov11
-- 👀 I’m interested in games, books and different kinds of sports. 
+- 👋 Hi, I’m Valentin
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on anything as long as it's interesting idea
 - 📫 How to reach me v.j.stoyanov11@gmail.com
