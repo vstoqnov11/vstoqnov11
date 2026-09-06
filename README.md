@@ -1,9 +1,38 @@
-- 👋 Hi, I’m Valentin
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on anything as long as it's interesting idea
-- 📫 How to reach me v.j.stoyanov11@gmail.com
+# 👋 Hi, I'm Valentin
 
-<!---
-vstoqnov11/vstoqnov11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 **Junior Java Developer**  
+🎓 Trained through SoftUni’s Software Engineering Program (Java Track)  
+📍 Based in Bulgaria  
+
+---
+
+## 🛠 Tech Stack
+
+### **Backend**
+- Java • Spring Boot • Spring MVC • Spring Data JPA • Hibernate  
+- REST APIs • Microservices • Spring Security  
+- Validation • Exception Handling • Scheduling • Caching  
+
+### **Databases**
+- MySQL • SQL • JDBC  
+- ORM (Hibernate) • Repository Pattern  
+
+### **Frontend**
+- HTML • CSS • JavaScript  
+- DOM Manipulation • Event Handling  
+
+### **Tools & Concepts**
+- Maven • Git • GitHub • Postman  
+- OOP • Design Patterns • Unit Testing (JUnit)  
+- HTTP • Sessions • Cookies  
+- Lambda • Streams • Functional Programming  
+
+---
+
+## 📫 How to reach me
+- **Email:** v.j.stoyanov11@gmail.com   
+
+---
+
+## 🤝 Open to Opportunities
+Motivated to join a team where I can grow, write clean code, and contribute to real-world applications.
