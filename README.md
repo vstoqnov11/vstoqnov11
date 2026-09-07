@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Valentin
 
 💻 **Junior Java Developer**  
-🎓 Trained through SoftUni’s Software Engineering Program (Java Track)  
 📍 Based in Bulgaria  
 
 ---
